@@ -1,10 +1,10 @@
-# Hi! I'm Busra Sahin 👋
+# Hi! I'm Busra Sahin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Full-Stack Software Developer** with a passion for building scalable, user-friendly web applications. I have hands-on experience with modern web technologies and a strong foundation in computer science principles. Currently completing my Computer Programming diploma at Humber College with Honour Roll recognition.
+I'm a **Full-Stack Software Developer** with a passion for building scalable, user-friendly web applications. I have hands-on experience with modern web technologies and a strong foundation in computer science principles. Graduated with a Computer Programming diploma from Humber College with Honour Roll recognition.
 
 ## 🚀 About Me
 
-- 🎓 Diploma in Computer Programming from Humber College (2024-2025) - Honour Roll
+- 🎓 Diploma in Computer Programming from Humber College (August 2025) - Honour Roll
 - 💼 Experience with full-stack development, data processing, and UI/UX design
 - 🌱 Lifelong learner always exploring new technologies and best practices
 - 🏆 Salesforce Certified Administrator & Platform Developer I
