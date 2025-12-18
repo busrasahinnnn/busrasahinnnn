@@ -61,7 +61,7 @@ Full-stack web application that extracts and analyzes Walmart product reviews
 - **Features:** Data parsing, sentiment analysis, categorized review display
 - **Highlights:** RESTful API design, data validation, responsive UI
 
-### 📸 Foteza App
+### 📸 [Foteza App](https://foteza.com/)
 Marketplace connecting businesses with photographers and videographers
 - **Tech Stack:** React.js, Node.js, Firebase, TailwindCSS
 - **Features:** User authentication, booking system, real-time data management
